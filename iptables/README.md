@@ -7,7 +7,7 @@
 ```
 dig ya.ru
 ```
-
+![task1.1](https://github.com/mishalipatnikov/questions_touch_instinct/blob/main/result/task1.1.png)
 Задача2:
 
 С помощью `tcpdump` сделать дамп udp-пакетов, которые отправляются на `8.8.8.8`.
