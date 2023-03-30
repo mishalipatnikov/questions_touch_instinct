@@ -27,3 +27,4 @@ sudo tcpdump -i any -nn host 8.8.8.8 and udp -w dump.pcap
 ```
 sudo iptables -A INPUT -s 8.8.8.8 -j DROP
 ```
+![task1.3](https://github.com/mishalipatnikov/questions_touch_instinct/blob/main/result/task1.3.png)
